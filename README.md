@@ -1,7 +1,7 @@
 # The0thers.github.io
-This is the personal page of Yiming Guo
-这是郭奕明的个人主页
-目前的规划大概是这样的(之后会写每个板块的内容)
+- This is the personal page of Yiming Guo
+- 这是郭奕明的个人主页
+- 目前的规划大概是这样的(之后会写每个板块的内容)
   - 1. Home
   - 2. About me简历
   - 3. Game
@@ -22,7 +22,9 @@ This is the personal page of Yiming Guo
       - 朋友圈
       - 说说
   - 10. AIGC
+      - MarShanghai
   - 11. Graphic
+      - Joy Division
   - 12. Contact
       - 邮箱
       - 微信
