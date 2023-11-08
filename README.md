@@ -20,7 +20,14 @@ This is the home page of Yiming Guo
   - Memory
         微博
         朋友圈
-        说说 
+        说说
   - AIGC
   - Graphic
   - Contact
+       邮箱
+       微信
+       B站
+       油管
+       微信公众号
+       抖音
+       INS 
