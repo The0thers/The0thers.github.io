@@ -10,9 +10,28 @@
     - Demo
         - MallScaper
     - Analysis游戏分析、关卡分析
-        - Game Analysis
-            - WarCraft
-            - Age of Empire
+        - Game Analysis/游戏分析或者拆解
+            - 平台游戏（不同平台相同类型游戏的横向分析）
+              - 分析内容
+                - 对比分析游戏的关卡玩法、运营模式、画面美术
+              - 游戏选择
+                - 网游：超级跑跑
+                - 网游：糖豆人
+                - 手游/端游：蛋仔派对
+                - PC/主机：双人成行
+            - 第三人称射击类(同一公司相同类型游戏的迭代)
+              - 分析内容
+                - 对比分析游戏的玩法对比、画面、UI、打击感
+              - 游戏选择
+                - Max Payne1&2
+                - Alan Wake1&American Nightmare&2
+                - Quantum Break
+                - Control
+            - 即时策略类游戏分析
+              - 不同游戏横向对比
+              - 游戏选择
+                - WarCraft
+                - Age of Empire
         - Level Analysis
             - Alan Wake: Episode 4 The truth: Anderson Farm
             - Alan Wake: DlC 2: The writer
