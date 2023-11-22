@@ -4,13 +4,23 @@
 
 - 如何规划网页的结构？
 - 目前的规划大概是这样的(之后会写每个板块的内容)
-  - 1. Home
-  - 2. About me简历
-  - 3. Game
-    - Demo
-        - MallScaper
-    - Analysis游戏分析、关卡分析
-        - Game Analysis/游戏分析或者拆解
+  1. Home
+  2. ***About me简历***
+  3. Game
+    1. ***Demo***
+        - （demo部分的类型已经决定好了）
+        1. MallScaper
+          - 独立游戏demo
+          - 休闲放置类
+          - 基于unity
+        2. Alice Breaker
+          - 第三人称射击类游戏TPS（remedy游戏）
+          - 基于unreal engine
+        3. 某2D横板过关游戏（待定）
+          - 独立游戏demo
+          - 基于unity
+    2. Analysis游戏分析、关卡分析
+        1. Game Analysis/游戏分析或者拆解
             - 平台游戏（不同平台相同类型游戏的横向分析）
               - 分析内容
                 - 对比分析游戏的关卡玩法、运营模式、画面美术
@@ -32,24 +42,24 @@
               - 游戏选择
                 - WarCraft
                 - Age of Empire
-        - Level Analysis
+        2. Level Analysis
             - Alan Wake: Episode 4 The truth: Anderson Farm
             - Alan Wake: DlC 2: The writer
             - Control: Ashtray Maze
             - Alan Wake: We sing
-  - 4. Media
-    - Documentary纪录片
+  4. Media
+    1. Documentary纪录片
         - Drifting in Cities流窜长三角（b站超链接）
     - Music
         - 干支乐队（网易云/B站超链接）
         - 噪音手术乐队（网易云/B站超链接）
         - 个人作品（网易云/B站超链接）
-  - 5. Picture
+  5. Picture
     - Photograph
     - Graphic
         - Joy Division
     - Drawing
-  - 6. Writing
+  6. Writing
     - Fiction&Novel
       - 吞和吐（微信公众号超链接）
     - Poem
@@ -58,13 +68,13 @@
       - 朋友圈
       - 说说
     - Blog
-  - 7. AIGC
+  7. AIGC
     - Media
         - MarShanghai
     - Picture
     - Music
     - Writing
-  - 8. Contact
+  8. Contact
     - 邮箱
       - Gmail
       - 163mail
