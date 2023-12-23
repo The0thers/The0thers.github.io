@@ -1,4 +1,10 @@
 # The0thers.github.io
+- 情况有变！情况有变！情况有变！！！
+- 重要的事情说三遍！！
+- 因为github pages和Jellyll提供的主题和模板有点太过程序员了，
+同时，或者说更重要的是我自己并不是开发大佬，只会一点点前端，从零到百分之100来写一个网站对我来说难度着实有点大，
+更重要的是工作量太大；
+所以更改了开发路径，目前使用的是squarespace购买的域名，连接到了wordpress上进行排版和布局
 - This is the personal page of Yiming Guo
 - 这是郭奕明的个人主页
 
